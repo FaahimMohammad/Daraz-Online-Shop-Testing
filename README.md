@@ -1,1 +1,1 @@
-I have manually tested "Log In" module of Daraz Online Shop. First created test scenarios & testcases using functional requirement documents. After testing, RTM has added & bug reports have been shown in excel files.
+I have manually tested "Log In" module of Daraz Online Shop. First created test scenarios & testcases using functional requirement documents. After testing, RTM has added & bug report have been shown in excel files.
