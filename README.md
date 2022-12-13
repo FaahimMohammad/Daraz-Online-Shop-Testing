@@ -1,1 +1,1 @@
-# Daraz-Online-Shop-Testing
+I have manually tested "Log In" module of Daraz Online Shop. First created test scenarios & testcases using functional requirement documents. After testing, RTM has added & bug reports have been shown in excel file.
